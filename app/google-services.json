@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "768449393586",
+    "firebase_url": "https://nyctprochatd.firebaseio.com",
+    "project_id": "nyctprochatd",
+    "storage_bucket": "nyctprochatd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768449393586:android:c97bdf416712ea7476eaab",
+        "android_client_info": {
+          "package_name": "com.nycybertechnology.nyctprochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768449393586-8l8kbg1enn5i38uvhor5bj5grcs78m23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOiET1An4NnqwbeQhifPZEjrVIi0fpKo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768449393586-8l8kbg1enn5i38uvhor5bj5grcs78m23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

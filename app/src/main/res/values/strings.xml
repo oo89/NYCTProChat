@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NYCTProChat</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_to_chats_fragments">WELCOME TO CHATS FRAGMENTS</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="chats_fragments_will_be_done_for_next_version">chats_fragments_will_be_done_for_next_version</string>
+
+</resources>
